@@ -1,0 +1,45 @@
+# aliasing
+alias ll='ls -lh'
+alias iols='$HOME/scripts/server_menu.sh'
+
+alias pdxdvvtc01='ssh pdxdvvtc01.iovationnp.com'
+alias pdxdvvtc02='ssh pdxdvvtc02.iovationnp.com'
+alias pdxdvvtc03='ssh pdxdvvtc03.iovationnp.com'
+alias pdxdvvtc04='ssh pdxdvvtc04.iovationnp.com'
+alias pdxdvvtc05='ssh pdxdvvtc05.iovationnp.com'
+alias pdxdvvtc06='ssh pdxdvvtc06.iovationnp.com'
+alias pdxdvanl01='ssh pdxdvanl01.iovationnp.com'
+alias pdxdvanlhde01='ssh pdxdvanlhde01.iovationnp.com'
+alias pdxdvanlhdd01='ssh pdxdvanlhdd01.iovationnp.com'
+alias pdxdvanlhdd02='ssh pdxdvanlhdd02.iovationnp.com'
+alias pdxdvanlhdd03='ssh pdxdvanlhdd03.iovationnp.com'
+alias pdxdvanlhdd04='ssh pdxdvanlhdd04.iovationnp.com'
+alias pdxdvanlhdd05='ssh pdxdvanlhdd05.iovationnp.com'
+alias pdxdvanlhdd06='ssh pdxdvanlhdd06.iovationnp.com'
+alias pdxdvanlhdd07='ssh pdxdvanlhdd07.iovationnp.com'
+alias pdxdvanlhdd08='ssh pdxdvanlhdd08.iovationnp.com'
+alias pdxdvanlhdm01='ssh pdxdvanlhdm01.iovationnp.com'
+alias pdxdvanlhdm02='ssh pdxdvanlhdm02.iovationnp.com'
+alias pdxdvanlhdm03='ssh pdxdvanlhdm03.iovationnp.com'
+alias pdxdvanlhdslr01='ssh pdxdvanlhdslr01.vm.iovationnp.com'
+alias pdxdvanlhdslr02='ssh pdxdvanlhdslr02.vm.iovationnp.com'
+alias pdxdvkkolvesm01='ssh pdxdvkkolvesm01.vm.iovationnp.com'
+alias pdxdvanlhost01='ssh pdxdvanlhost01.vm.iovationnp.com'
+alias pdxqacpham01='ssh pdxqacpham01.iovationnp.com'
+alias pdxqacpham02='ssh pdxqacpham02.iovationnp.com'
+alias pdxqacpham03='ssh pdxqacpham03.iovationnp.com'
+alias pdxqacpham04='ssh pdxqacpham04.iovationnp.com'
+alias pdxqaphook01='ssh pdxqaphook01.iovationnp.com'
+alias pdxqakkolve01='ssh pdxqakkolve01.iovationnp.com'
+alias pdxqakkolve02='ssh pdxqakkolve02.iovationnp.com'
+alias pdxqakkolve03='ssh pdxqakkolve03.iovationnp.com'
+alias pdxqanschimanski01='ssh pdxqanschimanski01.iovationnp.com'
+alias pdxqanschimanski02='ssh pdxqanschimanski02.iovationnp.com'
+alias pdxqanschimanski03='ssh pdxqanschimanski03.iovationnp.com'
+alias pdxqablonchar01='ssh pdxqablonchar01.iovationnp.com'
+
+# added by Anaconda3 2.3.0 installer (editted by me)
+export PATH="/Users/kyle.joecken/anaconda/bin:/Users/kyle.joecken/scripts:$PATH"
+
+export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
+export LD_LIBRARY_PATH=$JAVA_HOME/jre/lib/server
